@@ -43,3 +43,13 @@
 - As a user I can view my lost pet page and update pet's description and also click 'Found' button and can also click release reward button.
   -As a user I can view my found unknown pet and update pets description.
 - As a user I can view about us page.
+
+---
+
+## **Databse Schema**
+
+---
+
+## **Prototype**
+
+[Link to Prototype]()
