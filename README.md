@@ -50,7 +50,7 @@
 
     - Reactjs
     - Expressjs
-    - Postgres
+    - PostgreSQL
     - Socket.io
     - Stripe (online payment)
     - HTML5
