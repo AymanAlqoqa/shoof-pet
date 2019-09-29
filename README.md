@@ -46,6 +46,19 @@
 
 ---
 
+## **Tech-Stack :**
+
+    - Reactjs
+    - Expressjs
+    - Postgres
+    - Socket.io
+    - Stripe (online payment)
+    - HTML5
+    - CSS3
+    - SASS
+
+---
+
 ## **Databse Schema**
 
 ---
