@@ -39,14 +39,16 @@
 - As a user I can view the landing page.
 - As a user I can create new account.
 - As a user I can login to my account.
-- As a user I can fillout my lost pet form.
-- As a user I can fillout found pet form.
+- As a user I can fill out my lost pet form.
+- As a user I can fill out found pet form.
+- As a user I can comment on any pet missing entry.
 - As a user I can view a list of lost pets and a list of found unknown pets.
 - As a user I can view any lost pet page and click 'I Found It' button.
 - As a user I can view any found pet page and click 'It is my lost pet' button.
 - As a user I can view my lost pet page and update pet's description and also click 'Found' button and can also click release reward button.
   -As a user I can view my found unknown pet and update pets description.
 - As a user I can view about us page.
+- As a user I can logout.
 
 ---
 
