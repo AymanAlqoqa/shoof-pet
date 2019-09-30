@@ -34,6 +34,7 @@
 ## **User Story**
 
 - As a user I can view the landing page.
+- As a user I can create new account.
 - As a user I can login to my account.
 - As a user I can fillout my lost pet form.
 - As a user I can fillout found pet form.
