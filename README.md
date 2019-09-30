@@ -56,6 +56,7 @@
 
     - Reactjs
     - Expressjs
+    - Redux
     - PostgreSQL
     - Socket.io
     - Stripe (online payment)
