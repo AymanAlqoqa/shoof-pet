@@ -28,7 +28,7 @@
 
 3- Finder can screen the lost pet list, If the pet he found is listed, he should open pet's page and click on "I found it" button, then Fill out appearing form with all required details including recent photo with the pet, contact details, ...etc. After the owner returns back his pet and release the reward, the finder will receive thank you message with reward deposit details. In the other hand, if the pet he found is not listed, he should report Found new unknown pet, and fill out all relevant information including pets photo, location, ... etc.[#5](https://github.com/AymanAlqoqa/shoof-pet/issues/5)
 
-4- User can comment on pet missing entries, offering data points (sighted, area checked with no results, etc). [#6](https://github.com/AymanAlqoqa/shoof-pet/issues/6)
+4- Finder can comment on pet missing entries, offering data points (sighted, area checked with no results, etc). [#6](https://github.com/AymanAlqoqa/shoof-pet/issues/6)
 
 
 
@@ -36,21 +36,21 @@
 
 ## **User Story**
 
-- As a user I can view the landing page.
-- As a user I can create new account.
-- As a user I can login to my account.
-- As a user I can fill out my lost pet form.
-- As a user I can fill out found pet form.
-- As a user I can comment on any pet missing entry.
-- As a user I can view a list of lost pets and a list of found unknown pets.
-- As a user I can view any 'lost pet' page and click 'I Found It' button.
-- As a user I can view any 'found unknown pet' page and click 'It is my lost pet' button.
-- As a user I can view my 'lost pet' page and update pet's description.
-- As a user I can view my 'lost pet' page click 'Found' button.
-- As a user I can view my 'lost pet' page click 'release reward' button.
-- As a user I can view my 'found unknown pet' page and update pets description.
-- As a user I can view about us page.
-- As a user I can logout.
+- As a pet owner/finder I can view the landing page.
+- As a pet owner/finder I can create new account.
+- As a pet owner/finder I can login to my account.
+- As a pet owner I can fill out my lost pet form.
+- As a finder I can fill out found pet form.
+- As a finder I can comment on any pet missing entry.
+- As a pet owner/finder I can view a list of lost pets and a list of found unknown pets.
+- As a finder I can view any 'lost pet' page and click 'I Found It' button.
+- As a pet owner I can view any 'found unknown pet' page and click 'It is my lost pet' button.
+- As a pet owner I can view my 'lost pet' page and update pet's description.
+- As a pet owner I can view my 'lost pet' page click 'Found' button.
+- As a pet owner I can view my 'lost pet' page click 'release reward' button.
+- As a finder I can view my 'found unknown pet' page and update pets description.
+- As a pet owner/finder I can view about us page.
+- As a pet owner/finder I can logout.
 
 ---
 
