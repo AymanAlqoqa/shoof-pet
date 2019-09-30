@@ -28,6 +28,9 @@
 
 3- Finder can screen the lost pet list, If the pet he found is listed, he should open pet's page and click on "I found it" button, then Fill out appearing form with all required details including recent photo with the pet, contact details, ...etc. After the owner returns back his pet and release the reward, the finder will receive thank you message with reward deposit details. In the other hand, if the pet he found is not listed, he should report Found new unknown pet, and fill out all relevant information including pets photo, location, ... etc.[#5](https://github.com/AymanAlqoqa/shoof-pet/issues/5)
 
+4- user can comment on pet missing entries, offering data points (sighted, area checked with no results, etc). [#6]()
+
+
 
 ---
 
