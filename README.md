@@ -22,12 +22,10 @@
 
 ## **User Journey**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;User can view the landing page which contain the lost pets list and the found unknown pets list. whether a user missed his/her pet or found unknown pet, he/she should make an account to get benefit from our service.
+1- User can view the landing page which contain the lost pets list and the found unknown pets list. whether a user missed his/her pet or found unknown pet, he/she should make an account to get benefit from our service.
+2- User can look for his lost pet, enter the web app then screen the list of the found unknown pets, if his pet is listed he should open pet's page and click "It is my pet" button, if not he should report new missing pet and wait for notification from the web app about the finder contact details. If he returned back his pet, he should enter again to his pet page and clcik "found" button and then release the reward to the finder person. [#4](https://github.com/AymanAlqoqa/shoof-pet/issues/4).
+3- Finder can screen the lost pet list, If the pet he found is listed, he should open pet's page and click on "I found it" button, then Fill out appearing form with all required details including recent photo with the pet, contact details, ...etc. After the owner returns back his pet and release the reward, the finder will receive thank you message with reward deposit details. In the other hand, if the pet he found is not listed, he should report Found new unknown pet, and fill out all relevant information including pets photo, location, ... etc.[#5](https://github.com/AymanAlqoqa/shoof-pet/issues/5)
 
-- If a user lost his/her pet, he/she should login and fillout 'report missing pet' form include pet's last location, recent photo, document of ownership, and the amount of reward he/she supposed to pay for the finder. When the system get new information about the lost pet, the owner will be notified with this information immediately. When the owner returns his/her pet back, he/she should enter his pet's page and click on 'Found' button and then release the reward to the finder person.
-- If a user find any lost pet, he/she should login and fillout 'report found pet' form include pet's location and recent photo with the pet. The system will notify him with the owner contact information. Then when The finder returns the pet to the owner, the owner should release the reward to the finder from the system.
-- If a user find reported lost pet, he/she should open the pet's page and click on 'I Found It' button and supply the system with required information.
-- If a user find his/her lost pet when he viewed the 'found pet page', he/she should click the 'It is my lost pet' button and fillout a form include document of ownership, his/her pets photo with him/her, and the amount of reward to the finder person. Then the system will send to him contact information of the finder person. and the past procedure will apply.
 
 ---
 
