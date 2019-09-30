@@ -22,7 +22,7 @@
 
 ## **User Journey**
 
-1- User can view the landing page which contain the lost pets list and the found unknown pets list. whether a user missed his/her pet or found unknown pet, he/she should make an account to get benefit from our service.
+1- User can view the landing page which contain the lost pets list and the found unknown pets list. whether a user missed his/her pet or found unknown pet, he/she should make an account to get benefit from our service. [#3](https://github.com/AymanAlqoqa/shoof-pet/issues/3)
 
 2- User can look for his lost pet, enter the web app then screen the list of the found unknown pets, if his pet is listed he should open pet's page and click "It is my pet" button, if not he should report new missing pet and wait for notification from the web app about the finder contact details. If he returned back his pet, he should enter again to his pet page and clcik "found" button and then release the reward to the finder person. [#4](https://github.com/AymanAlqoqa/shoof-pet/issues/4).
 
